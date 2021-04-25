@@ -1,5 +1,5 @@
 # Crypt Cryptocurrency Website
-<p align='justify' >Crypt is a cryptocutrrency website, where you can check out latest cryptocurrencies, their current rates, historical rates and their trend. Which helps you to predict their future, so you can invest your money wisely.</p>
+<p align='justify' >Crypt is a cryptocurrency website, where you can check out latest cryptocurrencies, their current rates, historical rates and their trend. Which helps you to predict their future, so you can invest your money wisely.</p>
 <p align='justify' >Crypt is free, hosted on firebase. Data for current rates is provided by coingecko and history by cryptowatch.</p>
 <h2>Idea</h2>
 <p align='justify' >&emsp; Surfing through the internet, trying to predict cryptocurrency trends, I thought of making a better and free alternative for allready present sites. You can see the Ideation of this project <a target='_blank' rel="noreferrer" href='https://drive.google.com/file/d/1MMf2BLCpdCHLJ_-R2rfF31vHdpLrqWD9/view?usp=sharing'>here</a>.</p>
