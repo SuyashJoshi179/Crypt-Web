@@ -1,0 +1,45 @@
+{
+  "short_name": "Crypt",
+  "name": "Crypt Cryptocurrency website",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Crypt32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "Crypt64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "Crypt96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Crypt192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Crypt256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "Crypt512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6abcff",
+  "background_color": "#a7d7ff"
+}

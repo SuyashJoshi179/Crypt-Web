@@ -1,0 +1,156 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+.row-header{
+	margin:0px auto;
+	padding:0px auto;
+}
+
+.row-content {
+	margin:0px auto;
+	padding: 50px 0px 50px 0px;
+	border-bottom: 1px ridge;
+	min-height:400px;
+}
+
+.footer{
+	background-color: #a7d7ff;
+	margin:0px auto;
+	padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+	padding:75px 20px 200px 20px;
+	margin: 100px auto -180px auto;
+	background:  #6abcff;
+	color:floralwhite;
+}
+
+.address{
+	font-size:80%;
+	margin:0px;
+	color:#0f0f0f;
+}
+
+.navbar-dark {
+	background-color: #2196F3;
+}
+
+.photo {
+	height: 69px;
+	width: 69px;
+	margin: 5px;
+	padding: 5px;
+}
+
+.bor {
+	border-radius: 8px;
+	border: 1px solid #f0f0f0;
+	background-color: white;
+}
+
+.details {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.values {
+	margin-top: 7px;
+}
+
+.mylist {
+	overflow-x: hidden;
+	min-height: 350px;
+}
+
+.cryptdetail {
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
+
+.spinner {
+	margin: 300px auto 180px auto;
+	text-align: center;
+}
+
+.currname {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.hoverable {
+	cursor: pointer;
+}
+
+.hoverable:hover {
+	color: grey;
+}
+
+.comparator {
+	text-align: center;
+	color: white;
+	text-shadow: 2px 0 0 #2196F3, -2px 0 0 #2196F3, 0 2px 0 #2196F3, 0 -2px 0 #2196F3, 1px 1px #2196F3, -1px -1px 0 #2196F3, 1px -1px 0 #2196F3, -1px 1px 0 #2196F3;
+	font-size: 2.75em;
+}
+
+.comparer {
+	min-height: 300px;
+	padding-top: 20px;
+}
+
+.exchanger {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 100%;
+}
+
+.google-visualization-controls-rangefilter .goog-inline-block {
+	margin-top: 25px;
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 10px;
+}
+
+.google-visualization-controls-rangefilter .google-visualization-controls-slider-horizontal {
+	justify-self: center;
+	grid-row-start: 1;
+	grid-column-start: 1;
+	grid-column-end: 3;
+}
+
+.google-visualization-controls-rangefilter .google-visualization-controls-rangefilter-thumblabel {
+	justify-self: center;
+}
+
+.modalchart {
+	min-height: 400px;
+	margin-bottom: -125px;
+}
+
+.modalspinner {
+	margin: 100px auto 142px auto;
+	text-align: center;
+}
+
+.suyash-image {
+	text-align: center;
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	align-items: baseline;
+	order: 1;
+}
+.image-wrapper {
+	text-align: center;
+}
+
+.aboutjumbo {
+	margin-bottom: -85px;
+}
+
+@media screen and (max-width: 576px) {
+	.devel {
+		text-align: center;
+	}
+}
